@@ -82,9 +82,9 @@ of our approach such as the ability to perform zero-shot and few-shot NLQ, and i
 
     We provide a downloader to download, extract, and move features to the corresponding destinations: <br>
     ```
-    python utils/download_features.py --feature-types <FEAT_TYPE_1> <FEAT_TYPE_2> ...
+    python utils/download_features.py --feature_types <FEAT_TYPE_1> <FEAT_TYPE_2> ...
     ```
-    where `FEAT_TYPE` can be `slowfast`, `egovlp`, `clip` or `internvideo`. Based on our experiments, we recommend using InternVideo features for Ego4D and SlowFast features for TaCOS to get the best results.
+    where `FEAT_TYPE` can be `slowfast`, `egovlp`, `clip` or `internvideo`. Based on our experiments, we recommend using InternVideo features for Ego4D and SlowFast features for TaCOS to get the best results
 
 
 # Benchmarking models on NLQ
