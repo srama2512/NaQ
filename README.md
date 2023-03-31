@@ -3,7 +3,7 @@ This repository contains the official PyTorch implementation for our CVPR 2023 p
 
 
 <p align="justify">
-<a href="https://arxiv.org/pdf/2301.00746v1.pdf">NaQ: Leveraging Narrations as Queries to Supervise Episodic Memory</a><br>
+<a href="https://arxiv.org/pdf/2301.00746.pdf">NaQ: Leveraging Narrations as Queries to Supervise Episodic Memory</a><br>
 Santhosh Kumar Ramakrishnan<sup>1</sup> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Ziad Al-Halah<sup>2</sup> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Kristen Grauman<sup>1,3</sup><br>
 <i><sup>1</sup>The University of Texas at Austin &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <sup>2</sup>University of Utah &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <sup>3</sup>FAIR, Meta AI</i> <br>
 Project website: <a href="http://vision.cs.utexas.edu/projects/naq">http://vision.cs.utexas.edu/projects/naq</a>
