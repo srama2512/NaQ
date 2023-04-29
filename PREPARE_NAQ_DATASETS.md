@@ -10,7 +10,7 @@ See instructions for both options below.
 
 * We share pre-generated datasets through the [Ego4D api](https://ego4d-data.org/docs/CLI/).
     ```
-    ego4d --output_directory="<OUTPUT DIRECTORY>" --datasets baselines/naq_datasets --version v2
+    ego4d --output_directory="<OUTPUT DIRECTORY>" --datasets naq_datasets --aws_profile_name <AWS-PROFILE-WITH-EGO4D-ACCESS> --version v2
     ```
 * Copy the data `$NAQ_ROOT` and extract.
     ```
