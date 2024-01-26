@@ -69,7 +69,7 @@ of our approach such as the ability to perform zero-shot and few-shot NLQ, and i
     ```
 
 # Dataset setup
-* Download `v1` version of the Ego4D episodic memory annotations following the [official instructions](https://ego4d-data.org/docs/start-here/) and copy them to `$NAQ_ROOT/data/(nlq|vq|moments)_*.json`. For experiments on TaCOS, we provide reformatted TaCOS annotations [here](path) compatible for NLQ training. Download them to `$NAQ_ROOT/data/tacos_*.json`.
+* Download `v1` version of the Ego4D episodic memory annotations following the [official instructions](https://ego4d-data.org/docs/start-here/) and copy them to `$NAQ_ROOT/data/(nlq|vq|moments)_*.json`. For experiments on TaCOS, we provide reformatted TaCOS annotations [here](https://utexas.box.com/s/4vmzxjf21gs7uxgg5xg4nmfh1sw5drm3) compatible for NLQ training. Download them to `$NAQ_ROOT/data/tacos_*.json`.
 * Prepare the NaQ datasets following instructions [here](PREPARE_NAQ_DATASETS.md).
 * Download video features for all clips used in the experiments. These are computed using the official checkpoints released for each method.
 
